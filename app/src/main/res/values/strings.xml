@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InAppPurchasing</string>
+
+    <string name="purchase_product">Purchase Product</string>
+    <string name="purchase_status_purchased">Purchase Status: Purchased</string>
+    <string name="purchase_status_not_purchased">Purchase Status : Not Purchased</string>
+    <string name="restore_purchasing">Restore Purchasing</string>
+</resources>
